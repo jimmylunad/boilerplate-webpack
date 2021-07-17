@@ -1,0 +1,9 @@
+{
+  "name": "primeperu-cotizador-landingstatic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jimmylunad/boilerplate-webpack.git",
+  "author": "Jimmy Luna <jimmylunad@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
